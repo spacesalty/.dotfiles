@@ -1,1 +1,1 @@
-# .dotfiles
+# gentoo .dotfiles

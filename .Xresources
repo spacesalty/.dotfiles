@@ -1,0 +1,43 @@
+! special colors
+*.foreground:  #645240
+*.background:  #f5eeeb
+*.cursorColor:  #645240
+! black
+*.color0:      #3b3228
+*.color8:      #7e705a
+! red
+*.color1:      #b5566a
+*.color9:      #b5566a
+! green
+*.color2:      #a89f50
+*.color10:     #a89f50
+! yellow
+*.color3:      #d1a174
+*.color11:     #d1a174
+! blue
+*.color4:      #779b9c
+*.color12:     #779b9c
+! magenta
+*.color5:      #877c94
+*.color13:     #877c94
+! cyan
+*.color6:      #6ca690
+*.color14:     #6ca690
+! white
+*.color7:      #ada7a5
+*.color15:     #ada7a5
+
+URxvt*scrollBar:				false
+URxvt*scrollBar_right:	false
+URxvt*transparent:			false
+URxvt*internalBorder:		12
+URxvt*externalBorder:		0
+URxvt*cursorBlink:			true
+URxvt*pointerBlank:			true
+
+URxvt.font:	xft:ProggyCrossed:Regular:pixelsize=14
+URxvt.letterSpace: -1
+
+*antialias:	true
+*autohint:	true
+
